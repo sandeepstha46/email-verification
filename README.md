@@ -1,6 +1,6 @@
 # Email Verification #
-![First](https://i.imgur.com/cozZg0F.jpg) 
-![Second](https://i.imgur.com/cChUz0v.jpg)
+First Step: https://i.imgur.com/cozZg0F.jpg 
+Second Step: https://i.imgur.com/cChUz0v.jpg
 
 ## reCaptcha ##
 
